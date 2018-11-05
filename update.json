@@ -2,7 +2,6 @@
   "darwin-x64-prod": {
     "readme": "Second Release",
     "update": "https://github.com/stoneWeb/fc-release/releases/download/1.0.0/release.json",
-    "forced": 1,
     "version": "1.0.0"
   }
 }
